@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.db
+*.sqlite
+*.sqlite3
+data/
+exports/
+logs/
+artifacts/
+screenshots/private/
