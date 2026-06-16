@@ -19,6 +19,16 @@ This project demonstrates:
 
 The public framing is market-data analytics and financial-data exploration. It is not presented as a production trading system or professional quant platform.
 
+## Related Public Proof Shells
+
+This repository supports the broader market-data / quant-adjacent analytics story. It should be read alongside the primary Institutional Market Data Engine proof shell and the QuantStrat ML research docs. Private implementation repos, credentialed source access, local databases, broker/API state, and production runtime state are intentionally not linked publicly.
+
+- [Portfolio project page](https://www.michaelspanico.com/projects/institutional-market-data-engine)
+- [Market & Quant Analytics Lab Docs](https://github.com/mp2123/Market-Quant-Analytics-Lab-Docs)
+- [Institutional Market Data Engine Docs](https://github.com/mp2123/Institutional-Market-Data-Engine-Docs)
+- [QuantStrat ML Docs](https://github.com/mp2123/QuantStrat-ML-Docs)
+- [Portfolio Website Docs](https://github.com/mp2123/Portfolio-Website-Docs)
+
 ## What The Private Dashboard Explores
 
 - Price and volume views for watchlist-level market data.
