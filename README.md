@@ -4,9 +4,9 @@ Public documentation shell for a private market-data analytics dashboard.
 
 The private implementation is a local Python and Streamlit workspace for exploring market-data ingestion, time-series visualization, basic risk metrics, and prototype model validation. The implementation repository stays private because it contains live runtime scripts, local databases, broker/API integration surfaces, webhook code, Discord automation, and active workbench changes.
 
-This repository explains the project at a recruiter-safe level without exposing private source code, credentials, token files, local machine paths, live trading workflows, or account-specific data.
+This repository explains the project at a public-safe level without exposing private source code, credentials, token files, local machine paths, live trading workflows, or account-specific data.
 
-## Recruiter Snapshot
+## Professional Snapshot
 
 This project demonstrates:
 
@@ -56,7 +56,7 @@ This public docs shell may include:
 
 - Architecture summaries.
 - Sanitized diagrams.
-- Recruiter-facing project explanation.
+- Public-facing project explanation.
 - Public-safe screenshots using mock or synthetic data after review.
 - Validation and privacy notes.
 
